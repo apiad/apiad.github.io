@@ -5,29 +5,25 @@ path: /
 
 # Hi there 🖖!
 
-<center>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/alepiad?label=Follow%20on%20Twitter&color=red&style=flat) ![GitHub followers](https://img.shields.io/github/followers/apiad?label=Follow%20on%20Github&style=flat) ![Discord](https://img.shields.io/discord/768779284050477086?style=flat&label=Chat%20on%20Discord)
-
-</center>
+![Twitter Follow](https://img.shields.io/twitter/follow/alepiad?label=Follow%20on%20Twitter&style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109376479245753675?domain=https%3A%2F%2Ftechhub.social&label=Follow%20on%20Mastodon&style=social)
+![GitHub followers](https://img.shields.io/github/followers/apiad?label=Follow%20on%20Github&style=social)
 
 ---
 
-My name is 👨Alejandro Piad Morffis. Here are some things about me:
+Hey there! I'm Alejandro Piad Morffis, and I'm thrilled to share a bit about myself with you.
 
-I live in Havana, 🇨🇺Cuba.
+First things first, I live in the vibrant city of Havana, Cuba 🇨🇺!
 
-I recently finished a 🎓PhD in Computer Science in the domain of NLP and knowledge discovery.
+I recently achieved a huge milestone by completing my PhD in Computer Science, specializing in NLP and knowledge discovery. I'm passionate about both teaching and researching, and I'm lucky enough to do both at the University of Havana. My areas of expertise include Programming, Compilers, and AI, among other topics. I'm also heavily involved in researching the intersection of artificial intelligence and human languages, as well as exploring ways to democratize machine learning tools.
 
-My two passions are 📚[teaching](https://apiad.net/about/teaching) and ⚗️[researching](https://apiad.net/about/research). I teach Programming, Compilers, AI, and a bunch of other stuff at the University of Havana. I also do research there, mostly on how to use artificial intelligence to better understand human languages, and on the democratization of machine learning tools.
+When I'm not busy with teaching and research, I enjoy spending my free time coding (especially in Python), playing video games (although I haven't had as much time for this lately), and writing. You can check out some of my work at my [Substack page](https://apiad.substack.com).
 
-In my free time, I also enjoy 💻[coding](https://apiad.net/about/projects) (mostly in 🐍Python), 🎮playing video games (sadly not much lately), and ✏️[writing](https://apiad.net/about/writing).
-
-You can find me online on 🗨️[Twitter](https://apiad.net/at/twitter) and 📱[Telegram](https://apiad.net/at/telegram).
+I'm always looking to connect with others who share my interests, so please don't hesitate to reach out! You can find me on [Twitter](https://twitter.com/alepiad) and [Telegram](https://t.me/apiadnet).
 
 ---
 
-💌 The best way to contact me is to mention [**@AlejandroPiad**](https://twitter.com/intent/tweet?text=Hey%20@AlejandroPiad%20...) on Twitter. I follow very few people (only those with whom I interact frequently) but I try to reply whenever someone asks me to.
+💌 The best way to contact me is to mention [@alepiad](https://twitter.com/intent/tweet?text=Hey%20@alepiad%20...) on Twitter. I follow very few people (only those with whom I interact frequently) but I try to reply whenever someone asks me to.
 
 ---
 

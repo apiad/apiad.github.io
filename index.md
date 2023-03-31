@@ -9,7 +9,7 @@ path: /
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109376479245753675?domain=https%3A%2F%2Ftechhub.social&label=Follow%20on%20Mastodon&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/apiad?label=Follow%20on%20Github&style=social)
 
----
+----
 
 Hey there! I'm Alejandro Piad Morffis, and I'm thrilled to share a bit about myself with you.
 

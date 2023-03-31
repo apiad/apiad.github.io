@@ -36,3 +36,9 @@ I'm always looking to connect with others who share my interests, so please don'
 ❤️ I do not tolerate racism or discrimination of any kind, towards me or others around me, and I work very hard to apply those same standards to myself.
 
 ❤️ I'm dedicated to education because I think that access to high-quality, unbiased, and free education is one of the best gifts anyone can receive, and one of the easiest ways to make people more reasonable and tolerant.
+
+<style>
+img {
+    border-radius: 100%;
+}
+</style>

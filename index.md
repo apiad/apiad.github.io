@@ -23,7 +23,7 @@ I'm always looking to connect with others who share my interests, so please don'
 
 ---
 
-💌 The best way to contact me is to mention [@alepiad](https://twitter.com/intent/tweet?text=Hey%20@alepiad%20...) on Twitter. I follow very few people (only those with whom I interact frequently) but I try to reply whenever someone asks me to.
+<iframe src="https://matcom.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ---
 

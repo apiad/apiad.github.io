@@ -21,11 +21,7 @@ When I'm not busy with teaching and research, I enjoy spending my free time codi
 
 I'm always looking to connect with others who share my interests, so please don't hesitate to reach out! You can find me on [Twitter](https://twitter.com/alepiad) and [Telegram](https://t.me/apiadnet).
 
----
-
 <iframe src="https://apiad.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
----
 
 **And these are the values I stand for:**
 

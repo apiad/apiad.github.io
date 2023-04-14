@@ -23,6 +23,7 @@ I'm always looking to connect with others who share my interests, so please don'
 
 <iframe src="https://apiad.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
+
 **And these are the values I stand for:**
 
 ❤️ I believe that people are generally good, and if given the chance, they will show the better parts of themselves.
